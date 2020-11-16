@@ -59,7 +59,7 @@
 
 | **Name of Team Members** | **Email Id** | **Contact Number** | **Branch / Area of Specialisation** | **Name of Institute** |
 | ------------------------ | ------------ | ------------------ | ----------------------------------- | --------------------- |
-| Member 1 *****           |              |                    |                                     |                       |
+| Member 1                 |              |                    |                                     |                       |
 | Member 2                 |              |                    |                                     |                       |
 | Member 3                 |              |                    |                                     |                       |
 | Member 4                 |              |                    |                                     |                       |
