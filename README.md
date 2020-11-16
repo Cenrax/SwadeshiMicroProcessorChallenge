@@ -112,7 +112,7 @@ f)Other (FPGA Board other than Artix7-35T & Artix7-100T)
 **If selected Hardware Resources as other (FPGA Board other than Artix7-35T and Artix7-100T), then please mention the details of FPGA Board of your choice ( like Name of Vendor, Series etc.). ( If not applicable put N/a)**
 
 
-**If selected Hardware Resources as Other ( FPGA Board other than Artix7-35T and Artix7-100T) then select processor eco system of your choice among SHAKTI – E32, SHAKTI- C64, VEGA ET1031 or VEGA AS1061. (if not applicable put N/a) **
+**If selected Hardware Resources as Other ( FPGA Board other than Artix7-35T and Artix7-100T) then select processor eco system of your choice among SHAKTI – E32, SHAKTI- C64, VEGA ET1031 or VEGA AS1061. (if not applicable put N/a)**
 
  
 
