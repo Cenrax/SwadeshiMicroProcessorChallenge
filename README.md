@@ -6,13 +6,11 @@
 
 ## Detail Proposal Form -  Ideate Stage of Quarter Finals
 
- 
-
-  **i.**       **Registration ID**
+**i.**       **Registration ID**
 
 *Enter the Registration ID*
 
- **ii.**     **Name of Team** **Leader***  
+**ii.**     **Name of Team** **Leader***  
 
 *Enter Name of Team Leader*
 
