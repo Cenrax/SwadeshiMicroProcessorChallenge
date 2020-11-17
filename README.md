@@ -1,10 +1,10 @@
-# SwadeshiMicroProcessorChallenge
+# Swadeshi MicroProcessor Challenge
  
 
 
  
 
-**Detail Proposal Form -  Ideate Stage of Quarter Finals**
+## Detail Proposal Form -  Ideate Stage of Quarter Finals
 
  
 
@@ -81,7 +81,7 @@
 
  
 
-**Section-I: Hardware Resource Section**
+## Section-I: Hardware Resource Section
 
  
 
