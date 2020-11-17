@@ -75,19 +75,9 @@
 | Faculty 1 *         |              |                    |                 |                     |                       |
 | Faculty 2           |              |                    |                 |                     |                       |
 
- 
-
- 
-
- 
+<br>
 
 ## Section-I: Hardware Resource Section
-
- 
-
- 
-
- 
 
 ***1.\***      **Name of Hardware Resources \*** 
 
