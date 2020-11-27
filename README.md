@@ -115,6 +115,7 @@ Image Processing
 IMAGE PROCESSING ON INTEL MOVIDUS 
 
 We propose a CNN based deep learning model for detection of pollutant on the surface of water. The model will be trained directly on an edge-device. At first, we thought of running the model on the FPGA but that would consume all the resources available in the FPGA. So, we are proposing an additional hardware accelerator which can be interfaced with our FPGA i.e. the central processing unit, hence ensuring the memory in the FPGA is free for use for other tasks.
+
 While surveying we found many hardware accelerators available in the market for computer-vision which includes Google Coral Chip, Nvidia Jetson, Intel Movidius etc. According to our needs i.e. low power consumption (energy efficient) and low latency we found Intel Movidius is best suited for our project. Apart from that it is cheapest among all the processor we mentioned above.
 Intel Movidius is a complete offline device and it’s like the size of a pen-drive which also makes it compatible with our unmanned water vehicle. The open source library and continuous upgrades from Intel also makes Movidius an ideal choice for our project.
 Intel has also made sure the OpenVino suite for Intel Movidius is extremely well documented and they have created a Neural Compute Application Zoo – a GitHub repo full of scripts to download models and compile graphs for Caffe and TensorFlow.
