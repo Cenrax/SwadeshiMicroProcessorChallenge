@@ -112,7 +112,8 @@ The description should cover the following points:
 4).  Data analysis (sample size, data collection)
 
 Image Processing
-IMAGE PROCESSING ON INTEL MOVIDUS 
+
+**IMAGE PROCESSING ON INTEL MOVIDIUS ** 
 
 We propose a CNN based deep learning model for detection of pollutant on the surface of water. The model will be trained directly on an edge-device. At first, we thought of running the model on the FPGA but that would consume all the resources available in the FPGA. So, we are proposing an additional hardware accelerator which can be interfaced with our FPGA i.e. the central processing unit, hence ensuring the memory in the FPGA is free for use for other tasks.
 
