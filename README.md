@@ -120,11 +120,26 @@ We propose a CNN based deep learning model for detection of pollutant on the sur
 While surveying we found many hardware accelerators available in the market for computer-vision which includes Google Coral Chip, Nvidia Jetson, Intel Movidius etc. According to our needs i.e. low power consumption (energy efficient) and low latency we found Intel Movidius is best suited for our project. Apart from that it is cheapest among all the processor we mentioned above.
 Intel Movidius is a complete offline device and it’s like the size of a pen-drive which also makes it compatible with our unmanned water vehicle. The open source library and continuous upgrades from Intel also makes Movidius an ideal choice for our project.
 Intel has also made sure the OpenVino suite for Intel Movidius is extremely well documented and they have created a Neural Compute Application Zoo – a GitHub repo full of scripts to download models and compile graphs for Caffe and TensorFlow.
+
+
  Specifications:
 -	4Gbits of LPDDR3 RAM
--	12 VLIW Vector Processors
+- 12 VLIW Vector Processors
 -	Sparc Microprocessor Core for running Custom Firmware
 -	Python, Ubuntu, CentOs can be installed.
+
+**Process**
+
+Dataset : AquaTrash and TACO dataset (both are public datasets).
+
+Approach: Deep learning based transfer learning model with interval of weight updates.
+
+In most of the deep learning model till date we have seen the approach is mainly pretraining a model on a dataset and then using that dataset for object recognization. In our device we will be doing the same approach where we will train a pretrained model and install it in our device for real-time object detection but as our target area is detecting water pollutants so we can't always describe the exact scenario how our pollutants will look always. Hence there can be chances when our dataset may become obselote. To avoid this situation we will be using our unmanned device to collect images while operating and collecting those devices in a lossless compressed form in their device. The collection of images will be based on a condition i.e. when the model recognizes a image within a certain threshold only those images will be stored.
+
+Architecture to be used : DenseNet121, the main reason for choosing these architecture is the efficiency in terms of parameters in comparison with the ResNet. Though the model will be trained using other architectures while testing and will be benchmarked for a fixed dataset.
+
+Object Detection on the device: Tiny Yolo or Single Shot Detector with a MobileNet will be used for object detection and will be benchmarked during testing and the better will be integrated in our device.
+
 
 
 
