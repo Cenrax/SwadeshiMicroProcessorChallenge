@@ -119,25 +119,6 @@ Give status of work done earlier and its timelines. If yes, please provide the b
 
 a)   Quarterly timelines vis-a-vis activities 
 
-| Sl. No. |         **DATE**          |                          **TASKS**                           |
-| ------- | :-----------------------: | :----------------------------------------------------------: |
-| **1.**  | **02/12/2020-10/01/2021** |          **Testing Subsystems  without VEGA 1061**           |
-| **2.**  | **10/01/2021-15/01/2021** |                  **Quarter  Final Results**                  |
-| **3.**  | **15/01/2021-31/01/2021** |            **Testing Subsystems with  VEGA 1061**            |
-| **4.**  | **31/01/2021-05/02/2021** | **Collection  of water sample for monitoring water health**  |
-| **5.**  | **05/02/2021-28/02/2021** | **Integration  of on board water quality sensors and  vessel propulsion system.** |
-| **6.**  | **05/02/2021-28/02/2021** | **Reporting  of floating waste, dissolved and dissolved contaminants ,water temperature  distributions.** |
-| **7.**  | **05/02/2021-28/02/2021** |      **Assimilation  of SONAR Rangers for Bathymetry.**      |
-| **8.**  | **05/02/2021-28/02/2021** |             **Data  Collection for Bathymetry.**             |
-| **9.**  | **05/02/2021-28/02/2021** | **Interfacing  LIDAR & marine radar for collision avoidance.** |
-| **10.** | **05/02/2021-28/02/2021** | **Combining multi-spectral  imaging sensors with 360 cameras for detailed analysis.** |
-| **11.** | **05/02/2021-28/02/2021** | **Integration of image  processing models to detect water quality degradation.** |
-| **12.** | **05/02/2021-28/02/2021** | **Establishing RF Wireless  communication for real time data collection.** |
-| **13.** | **05/02/2021-28/02/2021** |              **River Navigation  using NAVIC.**              |
-| **14.** | **05/02/2021-28/02/2021** | **Interfacing RF devices  and satellite navigation units with Artix7-100T.** |
-| **15.** | **28/02/2021-31/03/2021** |                            **.**                             |
-
-
 b)   Factually verifiable Indicators or Physical deliverables or Output indicators
 
 **Intellectual Property** 
